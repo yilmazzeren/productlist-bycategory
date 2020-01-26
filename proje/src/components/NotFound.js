@@ -4,7 +4,7 @@ export default class NotFound extends Component {
     render() {
         return (
             <div>
-                Not Found
+                Not Found Error
             </div>
         )
     }
